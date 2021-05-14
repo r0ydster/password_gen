@@ -5,7 +5,8 @@ One Paragraph of project description goes here
 ### Usage
 
 ```
-Give the example
+Turn on execute permissions.
+./passwword_gen.py
 ```
 
 And repeat
@@ -16,7 +17,7 @@ until finished
 
 ## Authors
 
-* **Michael D. Royer** - *Initial work* - [r0ydster](https://github.com/r0ydster)
+* **Michael D. Royer** - *Initial work* - [r0ydster](https://github.com/r0ydster) - [email](mailto:r0ydster@mdrcs.com)
 
 ## License
 
